@@ -1,6 +1,6 @@
-# 👋 Ola, me chamo Matheus Rovero Rodrigues
+# 👋 Ola, me chamo Matheus Rovero Rodrigues!
 - 👀 Tenho interrese em aprender liguagens de programação.
-- 🌱 Atualmente estou aprendendo HTML / JAVASCRIPT / CSS.
+- 🌱 Atualmente estou aprendendo em um curso técnico HTML, CSS e JavaScript.
 
 </div>
 
