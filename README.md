@@ -1,6 +1,7 @@
 ## 👋 Ola, me chamo Matheus Rovero Rodrigues!
 - 👀 Tenho interrese em aprender liguagens de programação.
-- 🌱 Atualmente estou aprendendo em um curso técnico HTML, CSS e JavaScript.
+- 📖 Atualmente estou cursando Ensino Superior | Gestão em Tecnologia da Informação.
+- 🌱 Técnico em Desenvolvimento de Sistemas | HTML, CSS, JavaScript e SQL.
 
 </div>
 
